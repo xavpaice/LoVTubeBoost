@@ -86,7 +86,7 @@ device=RESISTOR
 T 49700 44900 5 10 1 1 90 0 1
 refdes=R6
 T 50000 44700 5 10 1 1 0 0 1
-value=1K
+value=4K7
 }
 C 43400 44700 1 90 0 resistor-1.sym
 {
@@ -103,6 +103,8 @@ T 44700 45000 5 10 0 0 90 0 1
 device=RESISTOR
 T 44800 45200 5 10 1 1 90 0 1
 refdes=R3
+T 45100 44700 5 10 1 1 0 0 1
+value=4K7
 }
 C 43900 45700 1 0 0 12AU7-1.sym
 {
